@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>0223.jpg</filename>
+	<path>C:\Users\Rafael Lopes\FaceMaskDetection\V2\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\0223.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>445</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Com Mascara</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>173</ymin>
+			<xmax>294</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

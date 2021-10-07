@@ -1,0 +1,8 @@
+item { 
+	name:'Com Mascara'
+	id:1
+}
+item { 
+	name:'Sem Mascara'
+	id:2
+}
